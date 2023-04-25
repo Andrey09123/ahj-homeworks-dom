@@ -1,5 +1,5 @@
 import './css/style.css';
 import './js/app';
-import './index.html';
 
-// TODO: write your code in app.js
+// entry point for webpack
+// don't write your code here
