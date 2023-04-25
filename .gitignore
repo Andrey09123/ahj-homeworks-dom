@@ -1,6 +1,5 @@
-dist/
+dist
 doc
-trashcan/
 
 # Logs
 logs
@@ -83,3 +82,5 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
+# IDE
+.idea
