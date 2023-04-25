@@ -1,11 +1,3 @@
-import Game from './Game';
+import startGame from './startGame';
 
-const root = document.getElementById('root');
-
-const app = new Game(root, 4);
-
-try {
-  app.init();
-} catch (e) {
-  console.log(e.message);
-}
+startGame();
