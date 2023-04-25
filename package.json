@@ -1,9 +1,9 @@
 {
-  "name": "ahj-homeworks-dom",
+  "name": "ahj-homeworks_2-dom_2.1",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:Andrey09123/ahj-homeworks-dom",
-  "author": "Andrey",
+  "repository": "git@github.com:ajoq/ahj-homeworks_2-dom_2.1",
+  "author": "Konstantin Beloglazov <ajoq@ya.ru>",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.16.8",
