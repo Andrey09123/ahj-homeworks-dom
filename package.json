@@ -1,5 +1,5 @@
 {
-  "name": "ahj-homeworks-dom",
+  "name": "ahj",
   "version": "1.0.0",
   "description": "homeworks",
   "main": "index.js",
@@ -10,11 +10,11 @@
     "test": "jest",
     "coverage": "jest --coverage"
   },
-  "author": "Andrey",
+  "author": "theart84",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Andrey09123/ahj-homeworks-dom"
+    "url": "https://github.com/theart84"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.10",
